@@ -1,0 +1,39 @@
+/*----------------- 
+        font 
+----------------*/
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Open+Sans&display=swap');
+
+
+.btn2{
+    background-color: #B68C5A;
+    border: none;
+    padding: 18px 30px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.btn1{
+    background-color: #B68C5A;
+    border: none;
+    padding: 9px 10px;
+    color: white;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 18px;
+}
+.eb-font{
+    font-family: 'EB Garamond', serif;
+}
+.er{
+    border: 0.2px solid rgba(221, 221, 221, 0.623);
+    padding: 80px 40px;
+}
+
+.banner{
+    background-image: url('images/banner.png');
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: top, center;
+   
+}
